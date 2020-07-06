@@ -13,6 +13,8 @@ questions:
     answer: '	Hunter is a strong, people focused leader. In the years I worked with him, I saw him grow brand new engineers into solid, confident developers while building his organization as a whole. Hunter is also passionate about creating high performing Agile organizations. He was constantly encouraging his teams to improve their agile practice while he worked to on pragmatic ways to resolve organizational rough edges. His focus on personal growth and team engagement has really served him well at Avvo, and I would recommend him at any engineering organization.	'
   - question: '	3/15/2019	Schwieterman,	Marc	, 	Marc Schwieterman Software, LLC	, 	Owner	'
     answer: '	I worked for Hunter for over a year, and I can't recommend him strongly enough. He is one of the rare people who is both technically deep and also excels at navigating interpersonal and political situations. Hunter really cares about his people, and he does a great job of balancing the needs of those that report to him with accomplishing broader company objectives. I saw him play a significant role in growing teams' agile skills and introducing the company at large to new ways of thinking about product development, all while making time for one on ones and his team. I have been fortunate to work for several great managers over the years, and Hunter is amongst them, while also possessing a unique ability to really lead and inspire.	'
+
+---
   - question: '	3/13/2019	Jerica	Wilson	, 	Lyft	, 	iOS Engineer	'
     answer: '	Hunter was the best boss I ever had. He constantly unblocked me when I ran into roadblocks getting my work done, kept in touch with me, and knew how to stay out of my way as well so I could get my work done. On top of all this, he seemed to really care about my well being and individually, my future career. I hope someday I have another manager like that or even better, get to work for him again. I think it goes without saying that I'd recommend him to any company seeking a professional leader in technology.	'
   - question: '	3/12/2019	Pavel	Sorokin	, 	Zillow	, 	Software Development Manager	'
@@ -33,8 +35,6 @@ questions:
     answer: '	Hunter Davis is one an individual who knows how to meet deadlines and work with his team to get whatever needs to be completed done. He's one of the most task dedicated and detail oriented people that I've ever met.	'
   - question: '	5/6/2010	Ha	Duong	, 	SCALABLE Network Technologies	, 	Principal Software Engineer	'
     answer: '	Hunter is a very talented software engineer I have enjoyed to work with. I have always turned to him if I have questions about programming and OS systems. He is a nice person that can be easy to fit to senior engineering position in IT company.	'
-
----
 
   - question: '	4/7/2010	Jeff	Weaver	, 	Scalable Network Technologies	, 	Vice President of Engineering	'
     answer: '	Hunter is the brightest engineer I've met in the years since I worked in Silicon Valley.  He is a natural engineer -- a rare quality -- quick to pick up complex concepts and able to implement them easily.  A pleasure to work with.	'
