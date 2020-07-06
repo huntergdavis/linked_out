@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Help Center"
-email: gusquinalha@gmail.com
-description: "Simple and flexible Jekyll theme for help center."
-baseurl: "/jekyll-help-center-theme"
-url: "http://quinalha.me"
-twitter_username: "gustavoquinalha"
-github_username:  "gustavoquinalha"
+title: "recommendations"
+email: hunterdavis@hey.com
+description: "recommendations given and received for hunter davis (software person)."
+baseurl: "/linked-out"
+url: "http://www.hunterdavis.com"
+twitter_username:
+github_username:  huntergdavis
 color_theme:  "#0081ff"
 color_text:  "#fff"
 language:  "en"
