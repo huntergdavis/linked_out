@@ -11,9 +11,6 @@ questions:
     answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
   - question: '	4/19/2019	Kyle	Leaders	, 	Starbucks	, 	Engineering Manager	'
     answer: '	Hunter is a strong, people focused leader. In the years I worked with him, I saw him grow brand new engineers into solid, confident developers while building his organization as a whole. Hunter is also passionate about creating high performing Agile organizations. He was constantly encouraging his teams to improve their agile practice while he worked to on pragmatic ways to resolve organizational rough edges. His focus on personal growth and team engagement has really served him well at Avvo, and I would recommend him at any engineering organization.	'
-    
----
-
   - question: '	3/15/2019	Schwieterman,	Marc	, 	Marc Schwieterman Software, LLC	, 	Owner	'
     answer: '	I worked for Hunter for over a year, and I can't recommend him strongly enough. He is one of the rare people who is both technically deep and also excels at navigating interpersonal and political situations. Hunter really cares about his people, and he does a great job of balancing the needs of those that report to him with accomplishing broader company objectives. I saw him play a significant role in growing teams' agile skills and introducing the company at large to new ways of thinking about product development, all while making time for one on ones and his team. I have been fortunate to work for several great managers over the years, and Hunter is amongst them, while also possessing a unique ability to really lead and inspire.	'
   - question: '	3/13/2019	Jerica	Wilson	, 	Lyft	, 	iOS Engineer	'
@@ -53,7 +50,10 @@ questions:
   - question: '	3/4/2010	Kaixin	Xu	, 	Cisco	, 	Software Development Manager	'
     answer: '	Hunter is a brilliant engineer. I worked with him for several projects. He was a problem solver and always have excellent ideas. For most of the projects, he was able to finish with much shorter time than expected. He also has solid knowledge in both Linux and Windows systems. He is easy to collaborate with. I enjoyed working with him.	'
   - question: '	3/4/2010	Moiz	Alam	, 	Amazon Web Services (AWS)	, 	Solutions Architect	'
-    answer: '	Hunter is an excellent computer scientist who is an expert in a wide variety of areas, including HPC, system architecture, and algorithmic development. Furthermore, he is a great mentor to me at my current company, and is actively involved in idea creation and improving the company's bottom line. He is passionate in all of his endeavors, as evidenced by his website, and his work has been showcased on websites such as hack-a-day and endgadget. I recommend him for any high-power computer science work in general.	'
+    answer: '	Hunter is an excellent computer scientist who is an expert in a wide variety of areas, including HPC, system architecture, and algorithmic development. Furthermore, he is a great mentor to me at my current company, and is actively involved in idea creation and improving the company's bottom line. He is passionate in all of his endeavors, as evidenced by his website, and his work has been showcased on websites such as hack-a-day and endgadget. I recommend him for any high-power computer science work in general.	'    
+---
+
+
   - question: '	6/29/2009	Kevin	Emmons	, 	Interactive Intelligence	, 	Software Engineer	'
     answer: '	Hunter is well-versed in a broad scope of computer science tasks and was a pleasure to work alongside.	'
   - question: '	6/22/2009	Jesse	Liesch	, 	Google	, 	Software Engineer	'
