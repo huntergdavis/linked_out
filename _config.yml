@@ -9,7 +9,7 @@
 title: "recommendations"
 email: hunterdavis@hey.com
 description: "recommendations given and received for hunter davis (software person)."
-baseurl: "/linked-out"
+baseurl: "/linked-out/"
 url: "http://www.hunterdavis.com"
 twitter_username:
 github_username:  huntergdavis
