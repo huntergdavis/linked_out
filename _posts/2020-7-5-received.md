@@ -33,6 +33,9 @@ questions:
     answer: '	Hunter Davis is one an individual who knows how to meet deadlines and work with his team to get whatever needs to be completed done. He's one of the most task dedicated and detail oriented people that I've ever met.	'
   - question: '	5/6/2010	Ha	Duong	, 	SCALABLE Network Technologies	, 	Principal Software Engineer	'
     answer: '	Hunter is a very talented software engineer I have enjoyed to work with. I have always turned to him if I have questions about programming and OS systems. He is a nice person that can be easy to fit to senior engineering position in IT company.	'
+
+---
+
   - question: '	4/7/2010	Jeff	Weaver	, 	Scalable Network Technologies	, 	Vice President of Engineering	'
     answer: '	Hunter is the brightest engineer I've met in the years since I worked in Silicon Valley.  He is a natural engineer -- a rare quality -- quick to pick up complex concepts and able to implement them easily.  A pleasure to work with.	'
   - question: '	3/29/2010	Jigar	Shah	, 	Valtix	, 	Senior Director of Product Management	'
@@ -51,9 +54,6 @@ questions:
     answer: '	Hunter is a brilliant engineer. I worked with him for several projects. He was a problem solver and always have excellent ideas. For most of the projects, he was able to finish with much shorter time than expected. He also has solid knowledge in both Linux and Windows systems. He is easy to collaborate with. I enjoyed working with him.	'
   - question: '	3/4/2010	Moiz	Alam	, 	Amazon Web Services (AWS)	, 	Solutions Architect	'
     answer: '	Hunter is an excellent computer scientist who is an expert in a wide variety of areas, including HPC, system architecture, and algorithmic development. Furthermore, he is a great mentor to me at my current company, and is actively involved in idea creation and improving the company's bottom line. He is passionate in all of his endeavors, as evidenced by his website, and his work has been showcased on websites such as hack-a-day and endgadget. I recommend him for any high-power computer science work in general.	'    
----
-
-
   - question: '	6/29/2009	Kevin	Emmons	, 	Interactive Intelligence	, 	Software Engineer	'
     answer: '	Hunter is well-versed in a broad scope of computer science tasks and was a pleasure to work alongside.	'
   - question: '	6/22/2009	Jesse	Liesch	, 	Google	, 	Software Engineer	'
